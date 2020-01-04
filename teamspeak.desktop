@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Teamspeak Desktop
+GenericName=Teamspeak Desktop
+Comment=Official desktop version of Teamspeak app
+Exec=/home/sifa/teamspeak/ts3client_runscript.sh
+Icon=teamspeak-desktop
+Terminal=false
+StartupWMClass=TeamspeakDesktop
+Type=Application
+Categories=Network;InstantMessaging;Qt;
+MimeType=x-scheme-handler/tg;
+Keywords=tg;chat;im;messaging;messenger;sms;tdesktop;
+X-GNOME-UsesNotifications=true
+X-Desktop-File-Install-Version=0.24
